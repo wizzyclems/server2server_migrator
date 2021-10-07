@@ -1,1 +1,0 @@
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""E:\fix\_bio\sw\web_server_log_migrator\log_migrator.ps1""' -Verb RunAs}"
